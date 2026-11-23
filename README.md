@@ -6,9 +6,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 <p align="center">
-  <a href="https://projectalpha.com.br">
-    <img src="https://projectalpha.com.br/html/imagens/Logo-nav.png" alt="Alpha Project Logo" width="271">
-  </a>
+  <a href="https://www.projectalpha.com.br"><img src="html/imagens/Logo-nav.png" alt="Project Alpha" height="90" /></a
 </p>
 
 > Uma plataforma digital moderna e responsiva para uma academia de fitness localizada em Presidente Prudente – SP, com integração de e-commerce de suplementos e sistema de gestão.
